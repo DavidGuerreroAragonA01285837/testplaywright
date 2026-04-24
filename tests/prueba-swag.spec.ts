@@ -24,7 +24,7 @@ test('test', async ({ page }) => {
 
 */
 
-test(qase("TESTAUTOMA-2", 'User can login with valid credentials'), async ({page}) => {
+test(qase(2, 'User can login with valid credentials'), async ({page}) => {
 await page.goto('https://www.saucedemo.com/');
   await page.locator('[data-test="username"]').click();
   await page.locator('[data-test="username"]').fill('standard_user');
