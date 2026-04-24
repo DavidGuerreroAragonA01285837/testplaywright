@@ -1,0 +1,9 @@
+{
+  "mode": "testops",
+  "testops": {
+    "project": "TESTAUTOMA",
+    "api": {
+      "token": "4f5c0b2ccfadf4117277332a047daa53dd5e44f6b0b53b850a0098b162453f0b"
+    }
+  }
+}
